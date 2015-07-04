@@ -1,0 +1,29 @@
+iw
+wpa_supplicant
+dialog
+grub
+os-prober
+vim
+nvidia
+nvidia-libgl
+xf86-video-intel
+xfce4
+xfce4-goodies
+slim
+firefox
+archlinux-themes-slim
+diffutils
+gettext
+package-query
+curl
+cmake
+yajl
+base-devel
+alsa-utils
+ttf-dejavu
+archlinux-wallpaper
+thunar-volman
+ttf-ms-fonts
+pulseaudio
+ntfs-3g # to access ntfs usb sticks
+unzip   # unzip *.zip files
