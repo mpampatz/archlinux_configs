@@ -1,0 +1,13 @@
+xfce panel settings (reminder)
+
+==Panel==
+panel solid color:
+    alpha:100%
+    hue:223    red:60
+    satur:37    green:71
+    value:37   blue:96
+    row sixe (pixels):35
+packages: 
+    volumeicon
+    archlinux-artwork (for menu icon )
+    elementary-icon-theme
