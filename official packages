@@ -27,3 +27,4 @@ ttf-ms-fonts
 pulseaudio
 ntfs-3g # to access ntfs usb sticks
 unzip   # unzip *.zip files
+volumeicon
