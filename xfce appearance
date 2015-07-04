@@ -11,3 +11,10 @@ packages:
     volumeicon
     archlinux-artwork (for menu icon )
     elementary-icon-theme
+
+==menu/Settings/Appearance==
+Style: Xfce-flat
+Icons: elementary
+
+==wallpaper==
+package: archlinux-wallpaper
